@@ -46,8 +46,8 @@ A passionate Full Stack Software Engineer from Kenya.
 
 [Planter's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=planter44&&theme=xcode)https://github.com/planter44
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="planter44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Planter44" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=planter44&show_icons=true&locale=en&theme=tokyonight" alt="planter44" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Planter44&show_icons=true&locale=en&theme=tokyonight" alt="Planter44" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=planter44&&theme=tokyonight" alt="planter44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Planter44&&theme=tokyonight" alt="Planter44" /></p>
