@@ -50,6 +50,6 @@ A passionate Full Stack Software Engineer from Kenya.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=planter44&show_icons=true&locale=en&theme=tokyonight" alt="Planter44" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianotee&&theme=tokyonight" alt="planter44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="planter44" /></p>
 
 
