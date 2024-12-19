@@ -44,7 +44,7 @@ A passionate Full Stack Software Engineer from Kenya.
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
-[Planter's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)https://github.com/planter44
+[Planter's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=planter44&&theme=xcode)https://github.com/planter44
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=planter44&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="planter44" /></p>
 
